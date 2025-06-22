@@ -31,7 +31,7 @@ CarPricePrediction/
 ├── car_price_predictor.pkl        # Final trained model
 ├── car_data.csv                   # Dataset
 ├── car_price_prediction.ipynb     # Notebook with all steps
-├── app.py                         # (Optional) Streamlit app (not used)
+├── app.py                         # (Optional) Streamlit app 
 └── README.md
 
 📌 Notes
