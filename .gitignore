@@ -1,0 +1,4 @@
+__pycache__/
+.ipynb_checkpoints/
+car_price_predictor.pkl
+.env
